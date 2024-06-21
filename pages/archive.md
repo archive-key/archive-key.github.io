@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Blog Archive"
+title: "历史记录"
 permalink: /archive/
 hide: true
 excluded: true
